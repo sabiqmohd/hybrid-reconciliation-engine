@@ -26,6 +26,8 @@ def clean_dataframe(df):
         )
 
     df['amount'] = pd.to_numeric(df['amount'], errors='coerce')
+    df['date_day'] = df['date'].dt.floor('D')
+    df['rounded_amount'] = df['amount'].round(2)
 
     return df
 
