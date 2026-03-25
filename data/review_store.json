@@ -1,0 +1,2151 @@
+[
+  {
+    "transaction_id_bank": "B0264",
+    "transaction_id_reg": "R0264",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0003",
+    "transaction_id_reg": "R0003",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0045",
+    "transaction_id_reg": "R0045",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0192",
+    "transaction_id_reg": "R0192",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0019",
+    "transaction_id_reg": "R0019",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0101",
+    "transaction_id_reg": "R0101",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0261",
+    "transaction_id_reg": "R0261",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0090",
+    "transaction_id_reg": "R0090",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0281",
+    "transaction_id_reg": "R0281",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0204",
+    "transaction_id_reg": "R0204",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0147",
+    "transaction_id_reg": "R0147",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0143",
+    "transaction_id_reg": "R0143",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0172",
+    "transaction_id_reg": "R0172",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0103",
+    "transaction_id_reg": "R0103",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0295",
+    "transaction_id_reg": "R0295",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0203",
+    "transaction_id_reg": "R0203",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0113",
+    "transaction_id_reg": "R0113",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0182",
+    "transaction_id_reg": "R0182",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0290",
+    "transaction_id_reg": "R0290",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0237",
+    "transaction_id_reg": "R0237",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0049",
+    "transaction_id_reg": "R0049",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0233",
+    "transaction_id_reg": "R0233",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0213",
+    "transaction_id_reg": "R0213",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0131",
+    "transaction_id_reg": "R0131",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0271",
+    "transaction_id_reg": "R0271",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0287",
+    "transaction_id_reg": "R0287",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0106",
+    "transaction_id_reg": "R0106",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0216",
+    "transaction_id_reg": "R0216",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0223",
+    "transaction_id_reg": "R0223",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0262",
+    "transaction_id_reg": "R0262",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0093",
+    "transaction_id_reg": "R0093",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0246",
+    "transaction_id_reg": "R0246",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0150",
+    "transaction_id_reg": "R0150",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0180",
+    "transaction_id_reg": "R0180",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0027",
+    "transaction_id_reg": "R0027",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0046",
+    "transaction_id_reg": "R0046",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0104",
+    "transaction_id_reg": "R0104",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0091",
+    "transaction_id_reg": "R0091",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0278",
+    "transaction_id_reg": "R0278",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0277",
+    "transaction_id_reg": "R0277",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0060",
+    "transaction_id_reg": "R0060",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0044",
+    "transaction_id_reg": "R0044",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0059",
+    "transaction_id_reg": "R0059",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0241",
+    "transaction_id_reg": "R0241",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0161",
+    "transaction_id_reg": "R0161",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0035",
+    "transaction_id_reg": "R0035",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0085",
+    "transaction_id_reg": "R0085",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0169",
+    "transaction_id_reg": "R0169",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0284",
+    "transaction_id_reg": "R0284",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0005",
+    "transaction_id_reg": "R0005",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0069",
+    "transaction_id_reg": "R0069",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0070",
+    "transaction_id_reg": "R0070",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0135",
+    "transaction_id_reg": "R0135",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0249",
+    "transaction_id_reg": "R0249",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0115",
+    "transaction_id_reg": "R0115",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0089",
+    "transaction_id_reg": "R0089",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0167",
+    "transaction_id_reg": "R0167",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0275",
+    "transaction_id_reg": "R0275",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0214",
+    "transaction_id_reg": "R0214",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0048",
+    "transaction_id_reg": "R0048",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0228",
+    "transaction_id_reg": "R0228",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0079",
+    "transaction_id_reg": "R0079",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0296",
+    "transaction_id_reg": "R0296",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0128",
+    "transaction_id_reg": "R0128",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0138",
+    "transaction_id_reg": "R0138",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0052",
+    "transaction_id_reg": "R0052",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0196",
+    "transaction_id_reg": "R0196",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0227",
+    "transaction_id_reg": "R0227",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0154",
+    "transaction_id_reg": "R0154",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0293",
+    "transaction_id_reg": "R0293",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0243",
+    "transaction_id_reg": "R0243",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0097",
+    "transaction_id_reg": "R0097",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0068",
+    "transaction_id_reg": "R0068",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0082",
+    "transaction_id_reg": "R0082",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0016",
+    "transaction_id_reg": "R0016",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0134",
+    "transaction_id_reg": "R0134",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0136",
+    "transaction_id_reg": "R0136",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0257",
+    "transaction_id_reg": "R0257",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0170",
+    "transaction_id_reg": "R0170",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0240",
+    "transaction_id_reg": "R0240",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0095",
+    "transaction_id_reg": "R0095",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0226",
+    "transaction_id_reg": "R0226",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0086",
+    "transaction_id_reg": "R0086",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0201",
+    "transaction_id_reg": "R0201",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0032",
+    "transaction_id_reg": "R0032",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0102",
+    "transaction_id_reg": "R0102",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0265",
+    "transaction_id_reg": "R0265",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0166",
+    "transaction_id_reg": "R0166",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0008",
+    "transaction_id_reg": "R0008",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0294",
+    "transaction_id_reg": "R0294",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0186",
+    "transaction_id_reg": "R0186",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0189",
+    "transaction_id_reg": "R0189",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0260",
+    "transaction_id_reg": "R0260",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0083",
+    "transaction_id_reg": "R0083",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0151",
+    "transaction_id_reg": "R0151",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0031",
+    "transaction_id_reg": "R0031",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0207",
+    "transaction_id_reg": "R0207",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0238",
+    "transaction_id_reg": "R0238",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0140",
+    "transaction_id_reg": "R0140",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0231",
+    "transaction_id_reg": "R0231",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0139",
+    "transaction_id_reg": "R0139",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0157",
+    "transaction_id_reg": "R0157",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0050",
+    "transaction_id_reg": "R0050",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0063",
+    "transaction_id_reg": "R0063",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0133",
+    "transaction_id_reg": "R0133",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0042",
+    "transaction_id_reg": "R0042",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0087",
+    "transaction_id_reg": "R0087",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0084",
+    "transaction_id_reg": "R0084",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0251",
+    "transaction_id_reg": "R0251",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0119",
+    "transaction_id_reg": "R0119",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0009",
+    "transaction_id_reg": "R0009",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0105",
+    "transaction_id_reg": "R0105",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0021",
+    "transaction_id_reg": "R0021",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0112",
+    "transaction_id_reg": "R0112",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0014",
+    "transaction_id_reg": "R0014",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0220",
+    "transaction_id_reg": "R0220",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0013",
+    "transaction_id_reg": "R0013",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0175",
+    "transaction_id_reg": "R0175",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0212",
+    "transaction_id_reg": "R0212",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0116",
+    "transaction_id_reg": "R0116",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0028",
+    "transaction_id_reg": "R0028",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0165",
+    "transaction_id_reg": "R0165",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0029",
+    "transaction_id_reg": "R0029",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0036",
+    "transaction_id_reg": "R0036",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0219",
+    "transaction_id_reg": "R0219",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0107",
+    "transaction_id_reg": "R0107",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0056",
+    "transaction_id_reg": "R0056",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0096",
+    "transaction_id_reg": "R0096",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0258",
+    "transaction_id_reg": "R0258",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0123",
+    "transaction_id_reg": "R0123",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0030",
+    "transaction_id_reg": "R0030",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0181",
+    "transaction_id_reg": "R0181",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0245",
+    "transaction_id_reg": "R0245",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0043",
+    "transaction_id_reg": "R0043",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0208",
+    "transaction_id_reg": "R0208",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0200",
+    "transaction_id_reg": "R0200",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0067",
+    "transaction_id_reg": "R0067",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0179",
+    "transaction_id_reg": "R0179",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0289",
+    "transaction_id_reg": "R0289",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0217",
+    "transaction_id_reg": "R0217",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0088",
+    "transaction_id_reg": "R0088",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0197",
+    "transaction_id_reg": "R0197",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0202",
+    "transaction_id_reg": "R0202",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0057",
+    "transaction_id_reg": "R0057",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0004",
+    "transaction_id_reg": "R0004",
+    "confidence": 1.0,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0053",
+    "transaction_id_reg": "R0053",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0073",
+    "transaction_id_reg": "R0073",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0194",
+    "transaction_id_reg": "R0194",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0307",
+    "transaction_id_reg": "R0307",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0266",
+    "transaction_id_reg": "R0266",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0280",
+    "transaction_id_reg": "R0280",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0247",
+    "transaction_id_reg": "R0247",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0117",
+    "transaction_id_reg": "R0117",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0273",
+    "transaction_id_reg": "R0273",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0190",
+    "transaction_id_reg": "R0190",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0252",
+    "transaction_id_reg": "R0252",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0210",
+    "transaction_id_reg": "R0210",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0022",
+    "transaction_id_reg": "R0022",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0248",
+    "transaction_id_reg": "R0248",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0156",
+    "transaction_id_reg": "R0156",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0099",
+    "transaction_id_reg": "R0099",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0012",
+    "transaction_id_reg": "R0012",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0129",
+    "transaction_id_reg": "R0129",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0191",
+    "transaction_id_reg": "R0191",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0077",
+    "transaction_id_reg": "R0077",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0185",
+    "transaction_id_reg": "R0185",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0168",
+    "transaction_id_reg": "R0168",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0256",
+    "transaction_id_reg": "R0256",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0078",
+    "transaction_id_reg": "R0078",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0267",
+    "transaction_id_reg": "R0267",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0229",
+    "transaction_id_reg": "R0229",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0302",
+    "transaction_id_reg": "R0302",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0236",
+    "transaction_id_reg": "R0236",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0171",
+    "transaction_id_reg": "R0171",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0222",
+    "transaction_id_reg": "R0222",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0255",
+    "transaction_id_reg": "R0255",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0254",
+    "transaction_id_reg": "R0254",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0224",
+    "transaction_id_reg": "R0224",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0283",
+    "transaction_id_reg": "R0283",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0253",
+    "transaction_id_reg": "R0253",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0148",
+    "transaction_id_reg": "R0148",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0298",
+    "transaction_id_reg": "R0298",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0305",
+    "transaction_id_reg": "R0305",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0292",
+    "transaction_id_reg": "R0292",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0300",
+    "transaction_id_reg": "R0300",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0199",
+    "transaction_id_reg": "R0199",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0039",
+    "transaction_id_reg": "R0039",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0047",
+    "transaction_id_reg": "R0047",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0205",
+    "transaction_id_reg": "R0205",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0125",
+    "transaction_id_reg": "R0125",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0308",
+    "transaction_id_reg": "R0308",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0173",
+    "transaction_id_reg": "R0173",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0174",
+    "transaction_id_reg": "R0174",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0244",
+    "transaction_id_reg": "R0244",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0051",
+    "transaction_id_reg": "R0051",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0081",
+    "transaction_id_reg": "R0081",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0268",
+    "transaction_id_reg": "R0268",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0187",
+    "transaction_id_reg": "R0187",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0303",
+    "transaction_id_reg": "R0303",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0061",
+    "transaction_id_reg": "R0061",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0072",
+    "transaction_id_reg": "R0072",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0288",
+    "transaction_id_reg": "R0288",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0152",
+    "transaction_id_reg": "R0152",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0109",
+    "transaction_id_reg": "R0109",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0041",
+    "transaction_id_reg": "R0041",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0301",
+    "transaction_id_reg": "R0301",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0263",
+    "transaction_id_reg": "R0263",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0158",
+    "transaction_id_reg": "R0158",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0020",
+    "transaction_id_reg": "R0020",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0259",
+    "transaction_id_reg": "R0259",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0276",
+    "transaction_id_reg": "R0276",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0269",
+    "transaction_id_reg": "R0269",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0122",
+    "transaction_id_reg": "R0122",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0075",
+    "transaction_id_reg": "R0075",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0291",
+    "transaction_id_reg": "R0291",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0015",
+    "transaction_id_reg": "R0015",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0142",
+    "transaction_id_reg": "R0142",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0017",
+    "transaction_id_reg": "R0017",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0124",
+    "transaction_id_reg": "R0124",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0184",
+    "transaction_id_reg": "R0184",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0120",
+    "transaction_id_reg": "R0120",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0037",
+    "transaction_id_reg": "R0037",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0038",
+    "transaction_id_reg": "R0038",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0282",
+    "transaction_id_reg": "R0282",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0025",
+    "transaction_id_reg": "R0025",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0023",
+    "transaction_id_reg": "R0023",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0018",
+    "transaction_id_reg": "R0018",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0230",
+    "transaction_id_reg": "R0230",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0178",
+    "transaction_id_reg": "R0178",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0002",
+    "transaction_id_reg": "R0002",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0159",
+    "transaction_id_reg": "R0159",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0034",
+    "transaction_id_reg": "R0034",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0198",
+    "transaction_id_reg": "R0198",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0126",
+    "transaction_id_reg": "R0126",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0001",
+    "transaction_id_reg": "R0001",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0065",
+    "transaction_id_reg": "R0065",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0163",
+    "transaction_id_reg": "R0163",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0080",
+    "transaction_id_reg": "R0080",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0279",
+    "transaction_id_reg": "R0279",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0010",
+    "transaction_id_reg": "R0010",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0092",
+    "transaction_id_reg": "R0092",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0141",
+    "transaction_id_reg": "R0141",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0066",
+    "transaction_id_reg": "R0066",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0040",
+    "transaction_id_reg": "R0040",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0306",
+    "transaction_id_reg": "R0306",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0058",
+    "transaction_id_reg": "R0058",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0062",
+    "transaction_id_reg": "R0062",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0024",
+    "transaction_id_reg": "R0024",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0144",
+    "transaction_id_reg": "R0144",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0272",
+    "transaction_id_reg": "R0272",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0033",
+    "transaction_id_reg": "R0033",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0177",
+    "transaction_id_reg": "R0177",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0183",
+    "transaction_id_reg": "R0183",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0149",
+    "transaction_id_reg": "R0149",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0054",
+    "transaction_id_reg": "R0054",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0297",
+    "transaction_id_reg": "R0297",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0145",
+    "transaction_id_reg": "R0145",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0162",
+    "transaction_id_reg": "R0162",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0250",
+    "transaction_id_reg": "R0250",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0218",
+    "transaction_id_reg": "R0218",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0234",
+    "transaction_id_reg": "R0234",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0100",
+    "transaction_id_reg": "R0100",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0215",
+    "transaction_id_reg": "R0215",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0209",
+    "transaction_id_reg": "R0209",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0146",
+    "transaction_id_reg": "R0146",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0193",
+    "transaction_id_reg": "R0193",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0007",
+    "transaction_id_reg": "R0007",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0071",
+    "transaction_id_reg": "R0071",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0155",
+    "transaction_id_reg": "R0155",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0055",
+    "transaction_id_reg": "R0055",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0111",
+    "transaction_id_reg": "R0111",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0108",
+    "transaction_id_reg": "R0108",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0221",
+    "transaction_id_reg": "R0221",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0304",
+    "transaction_id_reg": "R0304",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0094",
+    "transaction_id_reg": "R0094",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0235",
+    "transaction_id_reg": "R0235",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0285",
+    "transaction_id_reg": "R0285",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0211",
+    "transaction_id_reg": "R0211",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0270",
+    "transaction_id_reg": "R0270",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0274",
+    "transaction_id_reg": "R0274",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0137",
+    "transaction_id_reg": "R0137",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0098",
+    "transaction_id_reg": "R0098",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0121",
+    "transaction_id_reg": "R0121",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0114",
+    "transaction_id_reg": "R0114",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0132",
+    "transaction_id_reg": "R0132",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0130",
+    "transaction_id_reg": "R0130",
+    "confidence": 0.8,
+    "source": "brick2",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0110",
+    "transaction_id_reg": "R0110",
+    "confidence": 0.5724,
+    "source": "brick4",
+    "review_status": "needs_review"
+  },
+  {
+    "transaction_id_bank": "B0153",
+    "transaction_id_reg": "R0153",
+    "confidence": 0.5824,
+    "source": "brick4",
+    "review_status": "needs_review"
+  },
+  {
+    "transaction_id_bank": "B0188",
+    "transaction_id_reg": "R0188",
+    "confidence": 0.6711,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0076",
+    "transaction_id_reg": "R0076",
+    "confidence": 0.6562,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0299",
+    "transaction_id_reg": "R0299",
+    "confidence": 0.6487,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0176",
+    "transaction_id_reg": "R0176",
+    "confidence": 0.6664,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0127",
+    "transaction_id_reg": "R0127",
+    "confidence": 0.6343,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0006",
+    "transaction_id_reg": "R0006",
+    "confidence": 0.7397,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0026",
+    "transaction_id_reg": "R0026",
+    "confidence": 0.671,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0232",
+    "transaction_id_reg": "R0232",
+    "confidence": 0.7668,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0164",
+    "transaction_id_reg": "R0164",
+    "confidence": 0.5891,
+    "source": "brick4",
+    "review_status": "needs_review"
+  },
+  {
+    "transaction_id_bank": "B0286",
+    "transaction_id_reg": "R0286",
+    "confidence": 0.8388,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0225",
+    "transaction_id_reg": "R0225",
+    "confidence": 0.6895,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0195",
+    "transaction_id_reg": "R0195",
+    "confidence": 0.6534,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0206",
+    "transaction_id_reg": "R0206",
+    "confidence": 0.6536,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0011",
+    "transaction_id_reg": "R0011",
+    "confidence": 0.7939,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0118",
+    "transaction_id_reg": "R0118",
+    "confidence": 0.614,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0064",
+    "transaction_id_reg": "R0064",
+    "confidence": 0.8282,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0239",
+    "transaction_id_reg": "R0239",
+    "confidence": 0.8251,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0242",
+    "transaction_id_reg": "R0242",
+    "confidence": 0.6435,
+    "source": "brick4",
+    "review_status": "correct"
+  },
+  {
+    "transaction_id_bank": "B0160",
+    "transaction_id_reg": "R0160",
+    "confidence": 0.6087,
+    "source": "brick4",
+    "review_status": "correct"
+  }
+]
