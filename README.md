@@ -2,7 +2,7 @@
 
 ## 1. Project Summary
 
-This project builds an automated financial reconciliation system that matches transactions between two data sources — a **bank statement** and a **check register** — where the records don't line up neatly. Dates can differ by up to 5 days, descriptions are written differently, transaction types use different codes, and some amounts have slight rounding differences.
+This project builds an automated financial reconciliation system that matches transactions between two data sources a **bank statement** and a **check register** where the records don't line up neatly. Dates can differ by up to 5 days, descriptions are written differently, transaction types use different codes, and some amounts have slight rounding differences.
 
 The system uses a **hybrid approach**:
 
